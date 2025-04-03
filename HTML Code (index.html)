@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Civil Engineering</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Introduction to Civil Engineering</h1>
+    </header>
+    
+    <nav>
+        <a href="previous_page.html">Previous Page</a>
+        <a href="index.html">Home</a>
+    </nav>
+    
+    <main>
+        <h2>Module 1: Civil Engineering Basics</h2>
+        <p>Welcome to the introduction to Civil Engineering. This module covers...</p>
+        
+        <h3>Table of Contents</h3>
+        <ul>
+            <li><a href="#section1">What is Civil Engineering?</a></li>
+            <li><a href="#section2">History of Civil Engineering</a></li>
+            <li><a href="#section3">Branches of Civil Engineering</a></li>
+        </ul>
+
+        <section id="section1">
+            <h2>What is Civil Engineering?</h2>
+            <p>Civil engineering is a professional engineering discipline...</p>
+        </section>
+
+        <section id="section2">
+            <h2>History of Civil Engineering</h2>
+            <p>The history of civil engineering can be traced back to...</p>
+        </section>
+
+        <section id="section3">
+            <h2>Branches of Civil Engineering</h2>
+            <p>There are various branches in civil engineering such as...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Your Website Name</p>
+    </footer>
+</body>
+</html>
